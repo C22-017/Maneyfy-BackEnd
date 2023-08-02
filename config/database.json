@@ -20,6 +20,11 @@
     "password": "wvxy0VhaJb8L",
     "database": "verceldb",
     "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    },
     "port": "5432"
   }
 }
