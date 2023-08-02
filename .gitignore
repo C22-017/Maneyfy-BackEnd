@@ -3,3 +3,4 @@ package-lock.json
 coverage
 maneyfy-api-webserver.pem
 .env
+database.json
